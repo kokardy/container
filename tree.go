@@ -4,10 +4,9 @@
   Node struct can be used as XMLNode etc...
 
 */
-package tree
+package container
 
 import (
-	"container"
 	"errors"
 	"fmt"
 	"log"
